@@ -2,7 +2,7 @@
 // All rights reserved
 
 // Provides schema migration functionality for Postgres
-package schema
+package blueprint
 
 import (
 	"bitbucket.org/surullabs/goose/lib/goose"
